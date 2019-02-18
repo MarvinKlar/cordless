@@ -34,4 +34,4 @@ about: Tell us what went wrong
 | Key | Value |
 | - | - |
 | OS | **TODO** |
-| Architechture | **TODO** |
+| Architecture | **TODO** |
